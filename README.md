@@ -1,4 +1,4 @@
-spectralth.tmTheme
+spectral.tmTheme
 =============
 
 Theme for Sublime Text 2
