@@ -18,7 +18,7 @@ Installation
 <b>Manual Installation</b>
 
 - Download the `.tmTheme` file<br>
-- Copy the .tmTheme file to [your path for Sublime Text]\Data\Packages\Color Scheme - Default<br>
+- Copy the `.tmTheme` file to [your path for Sublime Text]\Data\Packages\Color Scheme - Default<br>
 - Then choose it in Sublime:  Preferences->Color Scheme->Color Scheme - Default->spectral<br>
 
 License
