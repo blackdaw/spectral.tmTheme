@@ -15,7 +15,7 @@ Select Spectral Color Scheme and press Enter
 With auto_upgrade enabled, Package Control will keep all installed packages up-to-date!
 
 
-Manual Installation
+<b>Manual Installation</b>
 
 Download the .tmTheme file
 Copy the .tmTheme file to [your path for Sublime Text]\Data\Packages\Color Scheme - Default
