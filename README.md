@@ -7,7 +7,7 @@ Theme for Sublime Text 2 with nice colors fo your eyes =)
 Installation
 ===========
 
-Package Control
+<b>Package Control</b>
 
 Make sure you already have Package Control installed
 Choose "Install Package" from the Command Palette (Ctrl+Shift+P on Windows and Linux, ⇧⌘P on OS X)
