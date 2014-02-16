@@ -3,27 +3,28 @@ spectral.tmTheme
 
 Theme for Sublime Text 2 with nice colors fo your eyes =)
 
+![Screenshot HTML][1]
+![Screenshot CSS][2]
+![Screenshot JS][3]
+![Screenshot PHP][4]
+![Screenshot Selected][5]
 
 Installation
 ===========
 
-<b>Package Control</b>
-
-- Make sure you already have [Package Control][1] installed<br>
-- Choose "Install Package" from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)<br>
-- Select *Spectral Color Scheme* and press Enter<br>
-- With auto_upgrade enabled, Package Control will keep all installed packages up-to-date!<br>
-
-
-<b>Manual Installation</b>
-
-- Download the `.tmTheme` file<br>
-- Copy the `.tmTheme` file to [your path for Sublime Text]\Data\Packages\Color Scheme - Default<br>
+- Download the `spectral.tmTheme` file (Save file as ...)<br>
+- If you are in Windows go to `[C:\your Username]AppData\Roaming\Sublime Text 2\Packages\` and place the `.tmTheme` file in that folder 
 - Then choose it in Sublime:  Preferences->Color Scheme->Color Scheme - Default->spectral<br>
+
+HAPPY CODING!
 
 License
 =========
 
 MIT License
 
-[1]: http://wbond.net/sublime_packages/package_control/
+[1]: https://raw2.github.com/blackdaw/spectral.tmTheme/master/preview/prevHTML.png
+[2]: https://raw2.github.com/blackdaw/spectral.tmTheme/master/preview/prevCSS.png
+[3]: https://raw2.github.com/blackdaw/spectral.tmTheme/master/preview/prevJS.png
+[4]: https://raw2.github.com/blackdaw/spectral.tmTheme/master/preview/prevPHP.png
+[5]: https://raw2.github.com/blackdaw/spectral.tmTheme/master/preview/prevSEL.png
