@@ -2,7 +2,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>Enjoy this Theme</string>
+	<string></string>
 	<key>author</key>
 	<string>Battlelore</string>
 	<key>name</key>
@@ -119,6 +119,7 @@
 				<string>
     </string>
 				<key>foreground</key>
+				<!-- px, em, % usw (orange)-->
 				<string>#CC7832</string>
 			</dict>
 		</dict>
@@ -399,6 +400,7 @@
 				<string>
     </string>
 				<key>foreground</key>
+				<!-- label, h3, li usw. Tag Name im CSS & HTML (hellblau)-->
 				<string>#75ACCF</string>
 			</dict>
 		</dict>
@@ -536,6 +538,7 @@
 				<string>
     </string>
 				<key>foreground</key>
+				<!-- CSS ID (dunkelblau) -->
 				<string>#316494</string>
 			</dict>
 		</dict>
@@ -550,6 +553,7 @@
 				<string>
     </string>
 				<key>foreground</key>
+				<!-- CSS class (lila) -->
 				<string>#7550ac</string>
 			</dict>
 		</dict>
